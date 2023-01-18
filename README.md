@@ -5,4 +5,4 @@ Recréation d'une design/challenge FrontendMentor : https://www.frontendmentor.i
 
 
 
-Live version : https://alexandreottmann.github.io/-Css-Chat-app-Illustration/
+Live version : https://alexandreottmann.github.io/Css-Chat-app-Illustration/
